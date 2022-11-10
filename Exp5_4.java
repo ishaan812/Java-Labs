@@ -20,7 +20,7 @@ class Multiples extends Thread {
     }
 }
 
-class Question4 {
+class Main {
     public static void main(String[] args) {
         Multiples t1 = new Multiples(3);
         Multiples t2 = new Multiples(5);
