@@ -15,5 +15,6 @@ class Question2 {
             }
         }
         System.out.println("There are " + valid + " valid Integers and " + invalid + " invalid Integers");
+        s.close();
     }
 }
